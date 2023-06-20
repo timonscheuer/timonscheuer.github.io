@@ -16,4 +16,7 @@ format:
     toc: true
 lang: de
 
+execute:
+  freeze: auto
+
 
