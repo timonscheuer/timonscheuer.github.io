@@ -1,10 +1,19 @@
 ---
+twitter-card:
+    image: https://www.mr.schochastics.net/static/img/avatar.png
+    creator: "@timonscheuer"
+open-graph: true
 title: "About"
+image: https://www.mr.schochastics.net/static/img/avatar.png
 about:
-  links: 
-    - icon: twitter
+    template: trestles
+    links:
+      - icon: twitter
         text: Twitter
-        href: https://twitter.com/timonscheuer
+        href: https://twitter.com/timon_scheuer
+      - icon: github
+        text: Github
+        href: https://github.com/timonscheuer
 ---
 
 
