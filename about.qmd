@@ -3,8 +3,8 @@ title: "About"
 about:
   links: 
     - icon: twitter
-      text: Twitter
-      href: https://twitter.com/timonscheuer
+        text: Twitter
+        href: https://twitter.com/timonscheuer
 ---
 
 
