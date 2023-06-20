@@ -4,7 +4,7 @@ project:
 website:
   title: "Timon Scheuer"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
@@ -14,6 +14,6 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
-
+lang: de
 
 
